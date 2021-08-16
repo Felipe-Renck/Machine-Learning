@@ -1,2 +1,2 @@
-# Machine-Learning-Algorithms
-Machine Learning Algorithms
+# Machine-Learning
+Machine Learning Concepts and Exercises
