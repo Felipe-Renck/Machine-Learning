@@ -1,2 +1,2 @@
 # Machine-Learning
-Machine Learning Concepts and Exercises
+Machine Learning Concepts, Algorithms and Exercises
